@@ -1,8 +1,8 @@
 @import '../abstract/variaveis';
 
 .banner {
-    background: url(../../imagens/banner.jpeg) 27% center no-repeat;
-    min-height: 350px;
+    background: url(../../images/banner.jpg) 22% center no-repeat;
+    min-height: 650px;
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -19,7 +19,7 @@
             text-align: center;
         }
         h2 {
-            font-size: $tamanho-do-texto / 2;
+            font-size: $tamanho-do-texto / 1.5;
             color: $cor-terciaria;
         }
     }
